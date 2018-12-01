@@ -1,0 +1,64 @@
+body{
+    background-color: #fcfdff !important;
+}
+
+.h-40 {
+    font-size: 40px;
+}
+
+.img-fl {
+    float: left;
+    margin-right: 15px;
+}
+
+.ml-45 {
+    margin-left: 45px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.card-shadow {
+    box-shadow: 1px 1px #d0cfcfbf;
+}
+
+.professionalColor {
+    color: #0000bf;
+}
+
+.mainContent {
+    padding: 50px 30px !important;
+    min-height: 100%;
+}
+
+.imgProfile {
+    width: 45px;
+    border-radius: 30px;
+}
+
+.profileName {
+    padding: .5rem 1rem;
+}
+
+.bottom-card-title {
+    position: absolute;
+    bottom: 0;
+}
+
+.footer-style {
+    padding: .75rem 1.25rem;
+    background-color: rgba(0,0,0,.125);
+    border-top: 1px solid #ced4da;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.header-style {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.125);
+    border-bottom: 1px solid #ced4da;
+}
