@@ -62,3 +62,11 @@ body{
     background-color: rgba(0,0,0,.125);
     border-bottom: 1px solid #ced4da;
 }
+
+.one-stop-review-style{
+    margin: 10px;
+    background-image: url(../images/oneStopReview.PNG);
+    background-size: contain;
+    background-blend-mode: overlay;
+    background-repeat: round;
+}
