@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #fcfdff !important;
 }
 
@@ -48,7 +48,7 @@ body{
 
 .footer-style {
     padding: .75rem 1.25rem;
-    background-color: rgba(0,0,0,.125);
+    background-color: rgba(0, 0, 0, .125);
     border-top: 1px solid #ced4da;
     position: relative;
     bottom: 0;
@@ -59,14 +59,6 @@ body{
 .header-style {
     padding: .75rem 1.25rem;
     margin-bottom: 0;
-    background-color: rgba(0,0,0,.125);
+    background-color: rgba(0, 0, 0, .125);
     border-bottom: 1px solid #ced4da;
-}
-
-.one-stop-review-style{
-    margin: 10px;
-    background-image: url(../images/oneStopReview.PNG);
-    background-size: contain;
-    background-blend-mode: overlay;
-    background-repeat: round;
 }
